@@ -1,0 +1,4 @@
+﻿  glad.c
+  Main.cpp
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  GC1_Portafolio_1908325.vcxproj -> C:\Users\valer\source\repos\GC1_Portafolio_1908325\Debug\GC1_Portafolio_1908325.exe
